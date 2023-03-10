@@ -21,9 +21,9 @@
 
 <div align="left">
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub IDE&logoColor=white" />
 </div>
 
 
