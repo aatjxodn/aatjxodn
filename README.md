@@ -1,8 +1,6 @@
 ### TAEWOO SEO GitHub 👋
 **Web Developer**
 
-
-
 ---
 
 🧰 Stacks
