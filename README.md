@@ -3,8 +3,9 @@
 
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
+
 <!--
 **aatjxodn/aatjxodn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
