@@ -9,6 +9,9 @@
 
 🔥 Algorithm Level
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatjxodn&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=aatjxodn&show_icons=true">
+
 📂Projects
 
 
