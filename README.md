@@ -31,12 +31,12 @@
 </div>
 
 
-🔥 Algorithm Level
+🔥 Level
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatjxodn&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=aatjxodn&show_icons=true">
 
-📂Projects
+
 
 
 
@@ -53,4 +53,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📂Projects
 -->
