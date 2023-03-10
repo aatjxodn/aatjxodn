@@ -1,5 +1,5 @@
 ### TAEWOO SEO GitHub 👋
-**Backend Developer**
+**Web Developer**
 
 ---
 
