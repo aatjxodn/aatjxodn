@@ -1,4 +1,4 @@
-### Hi there, I'm TAEWOO SEO 👋
+### TAEWOO SEO GitHub 👋
 **Web Developer**
 
 
