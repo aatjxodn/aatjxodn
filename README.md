@@ -7,6 +7,7 @@
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=TypeScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/리액트-61DAFB?style=flat&logo=React&logoColor=white"/>
+	<img src="https://img.shields.io/badge//Apache Tomcat-F8DC75?style=flat&logo=React&logoColor=white"/>
 	
 	
 	<img src="https://img.shields.io/badge/Apache Tomcat-#F8DC75?style=flat&logo=TypeScript&logoColor=white"/>
