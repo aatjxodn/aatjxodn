@@ -1,5 +1,6 @@
-### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+### Hi there, TAEWOO SEO 👋
+#Web Developer
+
 
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
