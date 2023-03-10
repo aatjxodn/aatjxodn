@@ -21,8 +21,9 @@
 
 <div align="left">
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=social&logo=Eclipse IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=social&logo=Eclipse IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />
 </div>
 
 
