@@ -29,12 +29,6 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
 
-
-🔥 Level
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatjxodn&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=aatjxodn&show_icons=true">
-
 📧 email
 
 **aatjxodn22@gmail.com**
