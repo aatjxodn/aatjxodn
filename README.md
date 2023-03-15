@@ -1,4 +1,4 @@
-### TAEWOO SEO GitHub 👋
+### TAEWOO SEO
 **Web Developer**
 
 ---
