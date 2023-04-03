@@ -28,7 +28,6 @@
 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=GitLab&logoColor=white" />
-	<img src="https://img.shields.io/badge/Putty-181717?style=for-the-badge&logo=Putty&logoColor=white" />
 </div>
 
 📧 email
